@@ -19,8 +19,9 @@ PARC presents a parallelizable motion-planning framework for the reach-avoid pro
 
 -------
 ## Latest updates
-- [2024/03/11] **v0.1.0**: Initial code and paper release
 - [2024/03/18] **v0.1.1**: Added quad2d and quad3d examples
+- [2024/03/11] **v0.1.0**: Initial code and paper release
+
 
 -------
 ## Setup Requirements
