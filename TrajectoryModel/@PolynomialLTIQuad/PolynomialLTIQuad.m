@@ -1,6 +1,7 @@
 classdef PolynomialLTIQuad
-    %POLYNOMIALLTIQUAD Summary of this class goes here
-    %   Detailed explanation goes here
+    %   See Mueller et al. "A computationally efficient motion primitive
+    %   for quadrocopter trajectory generation" for details of the 
+    %   polynomial planning model
     
     properties
         peak_time
@@ -13,8 +14,6 @@ classdef PolynomialLTIQuad
     
     methods
         function obj = PolynomialLTIQuad(varargin)
-            %POLYNOMIALLTIQUAD Construct an instance of this class
-            %   Detailed explanation goes here
             kwargs = parse_function_args(varargin{:});
             kwargs = check_sanity_and_set_default_kwargs(kwargs, ...
                      'required_key' , ["peak_time", "final_time", ...

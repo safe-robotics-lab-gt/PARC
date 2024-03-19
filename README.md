@@ -9,7 +9,7 @@ PARC presents a parallelizable motion-planning framework for the reach-avoid pro
  </p>
 
 ------- 
-[**[Homepage]**](https://saferoboticslab.me.gatech.edu/research/goal-reaching-trajectory-design-near-danger-with-piecewise-affine-reach-avoid-computation/) &ensp; [**[Study Paper]**](https://arxiv.org/abs/2402.15604) &ensp; [**[Safe Robotics Lab @ GT]**](https://saferoboticslab.me.gatech.edu/)
+[**[Homepage]**](https://saferoboticslab.me.gatech.edu/research/parc/) &ensp; [**[Study Paper]**](https://arxiv.org/abs/2402.15604) &ensp; [**[Safe Robotics Lab @ GT]**](https://saferoboticslab.me.gatech.edu/)
 
 -------
 
@@ -19,7 +19,8 @@ PARC presents a parallelizable motion-planning framework for the reach-avoid pro
 
 -------
 ## Latest updates
-- [03/11/2024] **v0.1.0**: Initial code and paper release
+- [2024/03/11] **v0.1.0**: Initial code and paper release
+- [2024/03/18] **v0.1.1**: Added quad2d and quad3d examples
 
 -------
 ## Setup Requirements
