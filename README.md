@@ -56,9 +56,9 @@ To reproduce the comparison results shown in the paper, please navigate to the `
 Please cite [this paper](https://arxiv.org/abs/2402.15604) if you use `PARC` in an academic work:
 ```bibtex
 @article{chung2024goal,
-  title={Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation},
+  title={Goal-reaching trajectory design near danger with piecewise affine reach-avoid computation},
   author={Chung, Long Kiu and Jung, Wonsuhk and Kong, Chuizheng and Kousik, Shreyas},
-  journal={arXiv preprint arXiv:2402.15604},
+  booktitle = {Robotics: Science and Systems (RSS)},
   year={2024}
 }
 ```
